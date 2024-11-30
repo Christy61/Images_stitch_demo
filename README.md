@@ -1,5 +1,5 @@
 This folder contains all the matlab code files and pictures of the stitching images task.
-
+Please unzip dataset before running.
 To run the entire file, you need to:
 
 1. download "vlfeat" follow link: https://www.vlfeat.org/install-matlab.html
